@@ -36,7 +36,6 @@ function GalleryItem(props) {
             backgroundColor: 'grey',
             opacity: '0.9',
             borderRadius: '10px',
-      
         }
     }
 
